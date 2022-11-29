@@ -1,0 +1,26 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "Microverse week 1 first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplegoose/hello-microverse.git"
+  },
+  "author": "simplegoose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplegoose/hello-microverse/issues"
+  },
+  "homepage": "https://github.com/simplegoose/hello-microverse#readme",
+  "devDependencies": {
+    "hint": "file:../../.nvm/versions/node/v18.5.0/lib/node_modules/hint",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
